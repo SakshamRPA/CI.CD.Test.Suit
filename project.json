@@ -4,12 +4,7 @@
   "description": "CI.CD.Test.Suit",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.Excel.Activities": "[2.24.2]",
-    "UiPath.Mail.Activities": "[1.23.11]",
-    "UiPath.Persistence.Activities": "[1.5.11]",
-    "UiPath.Pipelines.Activities": "[2.0.2]",
     "UiPath.System.Activities": "[24.10.6]",
-    "UiPath.Testing.Activities": "[24.10.3]",
     "UiPath.UIAutomation.Activities": "[24.10.6]"
   },
   "webServices": [],
